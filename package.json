@@ -1,4 +1,4 @@
-"homepage": "https://KeshavDev15.github.io/Portfolio3d"
+
 
 {
   "name": "portfolio3d",
@@ -9,7 +9,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://KeshavDev15.github.io/Portfolio3d"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
