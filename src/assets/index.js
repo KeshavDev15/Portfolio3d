@@ -21,11 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import shopify from "./company/shopify.png";
+import medijini from "./company/medijini.png";
 import car from "./company/car.png";
 import stock from "./company/stock.png";
 
-import carrent from "./carrent.png";
 import MemoryGame from "./MemoryGame.png";
 import weepitch from "./weepitch.png";
 import drivestore from './drivestore.png';
@@ -53,10 +52,9 @@ export {
   tailwind,
   typescript,
   threejs,
-  shopify,
+  medijini,
   stock,
   MemoryGame,
-  carrent,
   drivestore,
   weepitch,
 };

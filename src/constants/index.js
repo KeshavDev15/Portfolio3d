@@ -15,14 +15,13 @@ import {
     git,
     figma,
     docker,
-    shopify,
-    carrent,
     threejs,
     weepitch,
     drivestore,
     car,
     stock,
     MemoryGame,
+    medijini,
   } from "../assets";
   
   export const navLinks = [
@@ -142,7 +141,7 @@ import {
     {
       title: "Software Developer Intern",
       company_name: "Medijini",
-      icon: shopify,
+      icon: medijini,
     iconBg: "#383E56",
     date: "June 2024 - August 2024",
     points: [
